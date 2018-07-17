@@ -1,2 +1,2 @@
 echo"Hello World"
-Echo "I am In Bug"
+echo "I am In Bug"
